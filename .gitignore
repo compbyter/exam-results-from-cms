@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Environment variables file
+.env
+
+# VSCode settings (varsa)
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# IDE/editor temp files
+*.swp
+*.swo
+
+# Python egg files
+*.egg-info/
+dist/
+build/
